@@ -7,8 +7,8 @@ A resilient, production-ready Full-Stack LLM Chatbot built with **React**, **Fas
 ## 1. Live URLs
 
 - **Live Frontend**: [https://lyftr-llm-chatbot-qwtwy2rf6-reachbox-scheduler.vercel.app/](https://lyftr-llm-chatbot-qwtwy2rf6-reachbox-scheduler.vercel.app/)
-- **Live Backend API**: [https://lyftr-llm-backend.onrender.com](https://lyftr-llm-backend.onrender.com) *(or your deployed Render / Fly.io / Railway URL)*
-- **Health Check Endpoint**: [https://lyftr-llm-backend.onrender.com/health](https://lyftr-llm-backend.onrender.com/health)
+- **Live Backend API**: [https://lyftr-llm-chatbot-sqjb.onrender.com](https://lyftr-llm-chatbot-sqjb.onrender.com)
+- **Health Check Endpoint**: [https://lyftr-llm-chatbot-sqjb.onrender.com/health](https://lyftr-llm-chatbot-sqjb.onrender.com/health)
 - **Public GitHub Repository**: [https://github.com/MeetGrover/lyftr-llm-chatbot](https://github.com/MeetGrover/lyftr-llm-chatbot)
 - **2–3 Minute Demo Video**: [Demo Video Link](https://loom.com/your-video-link)
 
