@@ -10,7 +10,7 @@ A resilient, production-ready Full-Stack LLM Chatbot built with **React**, **Fas
 - **Live Backend API**: [https://lyftr-llm-chatbot-sqjb.onrender.com](https://lyftr-llm-chatbot-sqjb.onrender.com)
 - **Health Check Endpoint**: [https://lyftr-llm-chatbot-sqjb.onrender.com/health](https://lyftr-llm-chatbot-sqjb.onrender.com/health)
 - **Public GitHub Repository**: [https://github.com/MeetGrover/lyftr-llm-chatbot](https://github.com/MeetGrover/lyftr-llm-chatbot)
-- **2–3 Minute Demo Video**: [Demo Video Link](https://loom.com/your-video-link)
+- **2–3 Minute Demo Video**: [Watch Demo Video](https://drive.google.com/file/d/1MYiVWo4XQxcnBVmvWvdIFb_8sVQd1f9h/view?usp=sharing)
 
 ---
 
